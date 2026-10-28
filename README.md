@@ -20,3 +20,7 @@ pytest projects/27-rag-search -q
 - TF-IDF vectors with stopword removal; scores are inspectable
 - Extractive answers that cite `doc#chunk (score)`
 - A confidence floor so the system says 'I don't know' instead of hallucinating
+
+## Repository
+- GitHub: https://github.com/{owner}/rag-search
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
